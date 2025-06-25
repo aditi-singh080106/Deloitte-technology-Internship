@@ -1,0 +1,23 @@
+{
+  "message_id": "msg_001",
+  "device_info": {
+    "device_id": "device_12345",
+    "device_type": "sensor",
+    "location": {
+      "latitude": -33.8688,
+      "longitude": 151.2093,
+      "address": "Sydney, NSW, Australia"
+    }
+  },
+  "telemetry_data": {
+    "timestamp": 1735171200000,
+    "temperature": 23.5,
+    "humidity": 65.2,
+    "pressure": 1013.25,
+    "battery_level": 87
+  },
+  "metadata": {
+    "format_version": "1.0",
+    "source": "format_1"
+  }
+}
