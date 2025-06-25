@@ -1,0 +1,23 @@
+{
+  "id": "msg_001",
+  "sensor": {
+    "identifier": "device_12345",
+    "type": "sensor",
+    "coordinates": {
+      "lat": -33.8688,
+      "lng": 151.2093,
+      "full_address": "Sydney, NSW, Australia"
+    }
+  },
+  "readings": {
+    "recorded_at": "2024-12-26T00:00:00.000Z",
+    "temp_celsius": 23.5,
+    "humidity_percent": 65.2,
+    "pressure_hpa": 1013.25,
+    "battery_percentage": 87
+  },
+  "info": {
+    "version": "2.0",
+    "origin": "format_2"
+  }
+}
